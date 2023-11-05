@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 As a seasoned Senior Software Engineer, I bring a wealth of experience to my role as a DevOps Engineer working with cutting-edge technologies in the cloud. With a focus on ETL, IoT and application development, I specialize in delivering innovative solutions in both Google and AWS Cloud environments. My expertise in cloud infrastructure management, application deployment and cost optimization has earned me a reputation as a reliable and valuable team member.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=faheem-khau9&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&custom_title=GitHub%20Stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=faheem-khau9&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faheem-khau9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=faheem-khau9)
 [![Website faheem-khau9](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://faheem-khau9.github.io/)
