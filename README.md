@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate Software Systems and DevOps Engin
 - 💻 Currently, I'm working as a DevOps Engineer, utilizing my expertise in python, golang, bash and terraform to develop and deploy robust applications on AWS ang Google Cloud.
 - ✍️ I also enjoy sharing my knowledge through technical blogs, where I write about my experiences, tutorials, and best practices.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Faheem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imfah33m/)
+- 📫 How to reach me: Here we go -> &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Faheem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imfah33m/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -60,12 +60,9 @@ Welcome to my GitHub profile! I'm a passionate Software Systems and DevOps Engin
 
 
 ---
-
-### 😉: Programming Joke :
-<!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ![](https://komarev.com/ghpvc/?username=faheem-khau9)
 [![Website faheem-khau9](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://faheem-khau9.github.io/)
+ <a href="https://twitter.com/imfah33m"><img src="https://img.shields.io/twitter/follow/imfah33m.svg?style=social" alt="Twitter Follow" /></a>
+ [![Linkedin Badge](https://img.shields.io/badge/-Faheem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imfah33m/)
 
 
